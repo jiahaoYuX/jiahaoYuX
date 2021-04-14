@@ -8,17 +8,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/jiahao-yu-499107209/" />][linkedin]
-
-
-<br />
 
 ### Languages and Tools:
 
