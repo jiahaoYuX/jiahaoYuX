@@ -12,7 +12,7 @@
 ### Connect with me:
 
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/jiahao-yu-499107209/" />[linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/jiahao-yu-499107209/" />][linkedin]
 
 
 <br />
