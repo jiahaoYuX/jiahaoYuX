@@ -1,4 +1,4 @@
-### Hi there, I'm Jiahao - aka [<Michael> 👋
+### Hi there, I'm Jiahao - aka <Michael> 👋
 
 ## I'm a IT student and full stack Student Developer!
 
@@ -32,3 +32,5 @@
 
 <br />
 <br />
+
+---
