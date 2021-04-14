@@ -41,7 +41,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/jiahao-yu-499107209/
-[facebook]::https://www.facebook.com/profile.php?id=100010619643803
+[facebook]::https://www.facebook.com/profile.php?id=100010619643803/
 [webdevplaylist]: https://www.linkedin.com/in/jiahao-yu-499107209/
 [jsplaylist]: https://www.linkedin.com/in/jiahao-yu-499107209/
 [cssplaylist]: https://www.linkedin.com/in/jiahao-yu-499107209/
