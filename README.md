@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/jiahao-yu-499107209/" />]
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/jiahao-yu-499107209/" />
 
 
 <br />
